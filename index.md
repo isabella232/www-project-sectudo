@@ -18,8 +18,11 @@ Along with security flaws, Sectudo also aims to provide an understanding of its 
 
 ## What is inside Sectudo? ##
 
-### Insecure version ### – Demo KYC Portal – A demo application with features like Add/View KYC, View Accounts, etc. They have different security flaws embedded in them.
+### Insecure version:
+Demo KYC Portal – A demo application with features like Add/View KYC, View Accounts, etc. They have different security flaws embedded in them.
 
-### Secure version ### – Demo KYC Portal – A secure version of the same demo application with similar features like Add/View KYC, View Accounts, etc. showcasing the security controls implemented in them.
+### Secure version:
+Demo KYC Portal – A secure version of the same demo application with similar features like Add/View KYC, View Accounts, etc. showcasing the security controls implemented in them.
 
-### A Learning Guide ### – Mobile Application Security – The learning guide is ideal for beginners to know about all the important application security topics related to the Mobile app. It focuses on highlighting the root cause of the flaws and their impact. 
+### A Learning Guide:
+Mobile Application Security – The learning guide is ideal for beginners to know about all the important application security topics related to the Mobile app. It focuses on highlighting the root cause of the flaws and their impact. 
