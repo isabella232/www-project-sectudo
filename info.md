@@ -6,12 +6,8 @@
 * [Breaker](#)
 
 ### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* [Download](https://synradar-my.sharepoint.com/:u:/p/ashish_p_rao/EYqhedVgIWFImqxVAiifz2wBQNx4zaaD8Rn_432Vkcs_NQ?e=tXUctK)
 
 ### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
+* [repo](https://github.com/OWASP/www-project-sectudo)
 

@@ -2,21 +2,23 @@
 
 layout: col-sidebar
 title: OWASP Sectudo
-tags: example-tag
+tags: details-tag
 level: 1
 type: 
-pitch: A very brief, one-line description of your project
+pitch: Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning.
 
 ---
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+*Sectudo* demonstrates the security flaws prone to Mobile apps and their Server-side Web APIs. These security flaws can be seen and practiced in the insecure instance of a demo application present in the app. 
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+_The details of the flaws along with the step-by-step guide of enumerating them are given in the form of videos._
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+Along with security flaws, Sectudo also aims to provide an understanding of its security controls. A separate secure instance of the demo application is present in it, with the necessary security measures in place. The security implementation can be studied by navigating through its different features.
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+##What is inside Sectudo?##
 
-level: For projects, this is your project level (2 - Incubator, 3 - Lab, 4 - Flagship)
+*Insecure version* – Demo KYC Portal – A demo application with features like Add/View KYC, View Accounts, etc. They have different security flaws embedded in them.
 
-type: code, tool, documentation, or other
+*Secure version* – Demo KYC Portal – A secure version of the same demo application with similar features like Add/View KYC, View Accounts, etc. showcasing the security controls implemented in them.
+
+*A Learning Guide* – Mobile Application Security – The learning guide is ideal for beginners to know about all the important application security topics related to the Mobile app. It focuses on highlighting the root cause of the flaws and their impact. 
