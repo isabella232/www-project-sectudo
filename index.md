@@ -8,6 +8,8 @@ type:
 pitch: Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning.
 
 ---
+![Intro Image](/images/intro.jpg)
+
 ### Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning. ###
 
 **Sectudo** demonstrates the security flaws prone to Mobile apps and their Server-side Web APIs. These security flaws can be seen and practiced in the insecure instance of a demo application present in the app. 
