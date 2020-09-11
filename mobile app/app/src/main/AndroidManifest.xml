@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.synradar_sectudo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.VIDEO_CAPTURE" />
+    <uses-permission android:name="android.permission.AUDIO_CAPTURE" />
+
+    <supports-screens
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:largeScreens="true"
+        android:xlargeScreens="true"
+        android:normalScreens="true"
+        android:anyDensity="true"/>
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+
+        android:usesCleartextTraffic="true">
+        <activity android:name=".IndBlogActivity"></activity>
+        <activity android:name=".BlogActivity" />
+        <activity android:name=".secure.SecViewActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".secure.SecShowDetailsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".secure.SecCheckEligibilityActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".secure.SecAddkycActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".secure.SecHomeActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".secure.SecLoginActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".insecure.InsViewActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".insecure.InsShowDetailsActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".insecure.InsCheckEligibilityActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".insecure.InsAddkycActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".insecure.InsHomeActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".insecure.InsLoginActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
