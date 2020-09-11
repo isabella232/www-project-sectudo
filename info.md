@@ -1,13 +1,12 @@
 ### Sectudo Information
 * [Incubator Project](#)
 * [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
+* [Version 1.0.0](#)
+
 
 ### App Downloads
-* [Download - Version 1.0](https://synradar-my.sharepoint.com/:u:/p/ashish_p_rao/EYqhedVgIWFImqxVAiifz2wBQNx4zaaD8Rn_432Vkcs_NQ?e=tXUctK)
+* [Download (Ver 1.0)](https://synradar-my.sharepoint.com/:u:/p/ashish_p_rao/EYqhedVgIWFImqxVAiifz2wBQNx4zaaD8Rn_432Vkcs_NQ?e=tXUctK)
 
 ### Code Repository
-* [repo](https://github.com/OWASP/www-project-sectudo)
+* [Git Repository](https://github.com/OWASP/www-project-sectudo)
 
