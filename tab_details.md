@@ -8,6 +8,8 @@ tags: details-tag
 
 ## App Features
 
+### App Screenshots
+
 ### Credentials to Access the Demo Versions
 
 ### Insecure Demo Instance
