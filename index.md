@@ -8,7 +8,7 @@ type:
 pitch: Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning.
 
 ---
-![Intro Image](https://github.com/OWASP/www-project-sectudo/blob/master/assets/images/intro.jpg)
+![Intro Image](https://github.com/OWASP/www-project-sectudo/blob/master/assets/images/intro.jpg?raw=true)
 
 ### Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning. ###
 
