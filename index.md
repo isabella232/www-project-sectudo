@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Sectudo
 tags: details-tag
-level: 1
+level: 2
 type: 
 pitch: Sectudo is a Mobile app that aims at imparting simplified Mobile Application Security Learning.
 
