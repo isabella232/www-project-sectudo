@@ -7,6 +7,7 @@ tags: details-tag
 ---
 
 ## App Features
+![Screenshots Image](https://github.com/OWASP/www-project-sectudo/blob/master/assets/images/Main2.PNG)
 
 ### App Screenshots
 
