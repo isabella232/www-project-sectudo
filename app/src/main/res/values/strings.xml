@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sectudo v1.2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="sm_options">
+        <item>usesCleartextTraffic</item>
+        <item>allowBackup</item>
+        <item>permission.RECORD_AUDIO</item>
+        <item>permission.MODIFY_AUDIO_SETTINGS</item>
+        <item>debuggable</item>
+        <item>permission.VIDEO_CAPTURE</item>
+        <item>permission.AUDIO_CAPTURE</item>
+    </string-array>
+</resources>
