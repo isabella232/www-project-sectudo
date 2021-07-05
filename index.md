@@ -20,11 +20,11 @@ Along with security flaws, Sectudo also aims to provide an understanding of its 
 
 ## What is inside Sectudo? ##
 
-### Insecure version:
-Demo KYC Portal – A demo application with features like Add/View KYC, View Accounts, etc. They have different security flaws embedded in them.
+### Learning Modules:
+All the security flaws seen in Mobile Apps & APIs have been added as Learning module. Each module has notes on the security flaw, its exploit & mitigation technique. 
 
-### Secure version:
-Demo KYC Portal – A secure version of the same demo application with similar features like Add/View KYC, View Accounts, etc. showcasing the security controls implemented in them.
+### Exploits & Challenges:
+Exploit section has been added to explain in detail the steps to be followed to test any security flaw in the app. And there is a challenge with every security flaw for its practical understanding. An insecure demo KYC app has been added for the challenges. It is a live demo app, the credentials to access the demo app can be obtained from the home screen of the Sectudo app. 
 
-### A Learning Guide:
-Mobile Application Security – The learning guide is ideal for beginners to know about all the important application security topics related to the Mobile app. It focuses on highlighting the root cause of the flaws and their impact. 
+### Mitigation Techniques:
+A secure version of the demo KYC application having all the security controls is embedded in the app. It is reference in the mitigation section for your practical review. A detailed note on the recommendation is added for each security flaw.
