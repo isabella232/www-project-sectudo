@@ -11,35 +11,19 @@
 
 Along with security flaws, Sectudo also aims to provide an understanding of its security controls. A separate secure instance of the demo application is present in it, with the necessary security measures in place. The security implementation can be studied by navigating through its different features.
 
-## What is inside Sectudo? ##
+### Learning Modules:
+All the security flaws seen in Mobile Apps & APIs have been added as Learning module. Each module has notes on the security flaw, its exploit & mitigation technique. 
 
-### Insecure version:
-Demo KYC Portal – A demo application with features like Add/View KYC, View Accounts, etc. They have different security flaws embedded in them.
+### Exploits & Challenges:
+Exploit section has been added to explain in detail the steps to be followed to test any security flaw in the app. And there is a challenge with every security flaw for its practical understanding. An insecure demo KYC app has been added for the challenges. It is a live demo app, the credentials to access the demo app can be obtained from the home screen of the Sectudo app. 
 
-### Secure version:
-Demo KYC Portal – A secure version of the same demo application with similar features like Add/View KYC, View Accounts, etc. showcasing the security controls implemented in them.
-
-### A Learning Guide:
-Mobile Application Security – The learning guide is ideal for beginners to know about all the important application security topics related to the Mobile app. It focuses on highlighting the root cause of the flaws and their impact.
+### Mitigation Techniques:
+A secure version of the demo KYC application having all the security controls is embedded in the app. It is reference in the mitigation section for your practical review. A detailed note on the recommendation is added for each security flaw. 
 
 ## To run the app:
 
-* Download latest APK from the folder - "Latest Apk"
+* Download latest APK (v1.2) from the folder - "Release" section
 * Install the apk on your Android device
-* Browse through the secure or insecure demo features
-* Refer to the credentials given in the tab_details.md
-
-## To build the app:
-
-### Build the Web API:
-* Download the web api source code from "web api/Ckms"
-* Load the project in Eclipse IDE
-* Download the SQL file from the "web api/SQL"
-* Run the SQL file in the DB
-* Update the DB details in the file "web api\Ckms\src\com\sr\utilities\ReadConfigurations.java"
-* Run the project
-
-### Build the mobile app:
-* Download the mobile app source code from "mobile app"
-* Load the project in Android Studio
-* If the web api is also running locally then change the value of "ip" variable in _src/main/java/com/example/synradar_sectudo/helper/Constants.java_ to that of local instance's IP address
+* Browse through the learning modules. 
+* Visit the exploit section, go through the context and then “try exploit” given at the end of section. 
+* Refer to the credentials by clicking on the “key” icon on the home screen of the app. 
