@@ -5,7 +5,7 @@
 
 
 ### App Downloads
-* [Download (Ver 1.0)](https://synradar-my.sharepoint.com/:u:/p/ashish_p_rao/EYqhedVgIWFImqxVAiifz2wBQNx4zaaD8Rn_432Vkcs_NQ?e=tXUctK)
+* [Download (Ver 1.2)](https://github.com/OWASP/www-project-sectudo/releases/tag/v1.2)
 
 ### Code Repository
 * [Git Repository](https://github.com/OWASP/www-project-sectudo)
